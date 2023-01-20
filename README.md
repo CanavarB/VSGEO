@@ -1,5 +1,6 @@
 # VSGEO
-![VSGEO icon](../blob/icon.png)
+
+![icon](https://user-images.githubusercontent.com/100694366/213791818-115e2bc7-9561-4503-b204-404628a19914.png)
 
 Open Source Intellegent Tool for VSCO
 
@@ -26,8 +27,7 @@ _If user's images have location info it will print_
 
 Example:
 
-![example video](../blob/example.mp4)
-
+https://user-images.githubusercontent.com/100694366/213791959-efa2302e-10e4-433a-a925-11ab8fae2919.mp4
 
 
 ## Options
